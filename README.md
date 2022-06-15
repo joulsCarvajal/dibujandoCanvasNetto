@@ -1,2 +1,2 @@
 # dibujandoCanvasNetto
-First drawing on canvas lib
+First drawing on canvas libraries
